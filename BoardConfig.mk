@@ -23,7 +23,7 @@ TARGET_LIBINIT_DEFINES_FILE := device/samsung/hltetmo/init/init_hltetmo.c
 TARGET_UNIFIED_DEVICE := true
 
 # Kernel
-TARGET_KERNEL_VARIANT_CONFIG := msm8974_sec_hlte_tmo_defconfig
+TARGET_KERNEL_VARIANT_CONFIG := hltetmo_ubuntu_defconfig
 
 # NFC
 BOARD_NFC_CHIPSET := pn547
